@@ -1,0 +1,1 @@
+_trbo.app.layerApi.callback({"code":199,"segment_id":1,"ab_group":-1,"cic":false,"cicl":864000,"cic2":[],"msg":"no active campaigns","seg":[]});
